@@ -1,5 +1,26 @@
 <h1 align="center">Hey 👋, I'm Karthik</h1>
-<h3 align="center">Engineer at the Intersection of DevOps and SRE 🌟 Hello and welcome to my GitHub profile! I'm an enthusiastic engineer with a strong focus on DevOps and Site Reliability Engineering (SRE). My journey in tech has taken me through the RPE (Reliability Production Engineering) department at Morgan Stanley, where I worked on distributed systems and leveraged a variety of monitoring and observability tools. My experience includes hands-on management of production systems, ensuring their reliability and performance. I've tackled numerous challenges in application support, resolving issues to maintain seamless operations and enhance system resilience. Dive into my repositories to see my work, and join me in my mission to build robust, efficient, and reliable systems. Let's innovate together! 🚀</h3>
+<h3 align="left">🌐 About Me
+I’m a tech builder and problem solver who loves turning ideas into reliable, scalable, and intelligent systems. From engineering backend architectures to automating data pipelines, strengthening reliability, and experimenting with AI-powered development tools — I thrive on creating solutions that make technology smarter, faster, and more human-centered.
+<p></p>
+⚙️ Core Expertise
+• Languages & Frameworks: Python · Go · Java · SQL · React / Next.js · Django / Flask · GraphQL / REST APIs
+• Cloud & Infrastructure: AWS · GCP · Azure · Docker / Kubernetes · Terraform · CI/CD Automation
+• Data & Streaming Systems: Airflow · dbt · Snowflake · Kafka · Real-time analytics
+• Reliability & Observability: Prometheus · Grafana · AppDynamics · Logging & metrics pipelines
+• AI-Augmented Development: GitHub Copilot · Claude · Cursor, using AI to accelerate design, code, and delivery
+<p></p>
+🏆 Highlights & Achievements
+• Delivered mission-critical backend systems and observability tools at Morgan Stanley
+• Built cloud-native research platforms at UMKC, combining data, APIs, and scalable frontends
+• Earned Google SRE Fundamentals & Google Cloud Ready certifications
+• Won 2nd Place at Research-A-Thon for a quantum-enhanced transformer innovation
+• Completed M.S. in Computer Science with a 3.97 / 4.0 GPA
+<p></p>
+🚀 What Drives Me
+<p></p>
+I’m inspired by technology that empowers people - systems that scale effortlessly, data that tells a story, and automation that fuels creativity. I don’t limit myself to a title or stack - I bring energy, adaptability, and relentless curiosity to every project I join.
+<p></p>
+If you’re building something ambitious, from AI-powered platforms to reliable distributed systems — let’s connect and create what’s next.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-ctrl-a&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-ctrl-a" /> </p>
 
