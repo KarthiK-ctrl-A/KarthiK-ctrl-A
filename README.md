@@ -3,12 +3,14 @@
 I’m a tech builder and problem solver who loves turning ideas into reliable, scalable, and intelligent systems. From engineering backend architectures to automating data pipelines, strengthening reliability, and experimenting with AI-powered development tools — I thrive on creating solutions that make technology smarter, faster, and more human-centered.
 <p></p>
 ⚙️ Core Expertise
-• Languages & Frameworks: Python · Go · Java · SQL · React / Next.js · Django / Flask · GraphQL / REST APIs
-• Cloud & Infrastructure: AWS · GCP · Azure · Docker / Kubernetes · Terraform · CI/CD Automation
-• Data & Streaming Systems: Airflow · dbt · Snowflake · Kafka · Real-time analytics
-• Reliability & Observability: Prometheus · Grafana · AppDynamics · Logging & metrics pipelines
-• AI-Augmented Development: GitHub Copilot · Claude · Cursor, using AI to accelerate design, code, and delivery
-<p></p>
+    <ul>
+      <li> Languages & Frameworks: Python · Go · Java · SQL · React / Next.js · Django / Flask · GraphQL / REST APIs</li>
+      <li>  Cloud & Infrastructure: AWS · GCP · Azure · Docker / Kubernetes · Terraform · CI/CD Automation</li>
+      <li> Data & Streaming Systems: Airflow · dbt · Snowflake · Kafka · Real-time analytics</li>
+      <li> Reliability & Observability: Prometheus · Grafana · AppDynamics · Logging & metrics pipelines</li>
+      <li> AI-Augmented Development: GitHub Copilot · Claude · Cursor, using AI to accelerate design, code, and delivery</li> 
+    </ul>  
+  <p></p>
 🏆 Highlights & Achievements
 • Delivered mission-critical backend systems and observability tools at Morgan Stanley
 • Built cloud-native research platforms at UMKC, combining data, APIs, and scalable frontends
