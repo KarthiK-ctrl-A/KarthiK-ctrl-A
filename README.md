@@ -12,11 +12,14 @@ I’m a tech builder and problem solver who loves turning ideas into reliable, s
     </ul>  
   <p></p>
 🏆 Highlights & Achievements
-• Delivered mission-critical backend systems and observability tools at Morgan Stanley
-• Built cloud-native research platforms at UMKC, combining data, APIs, and scalable frontends
-• Earned Google SRE Fundamentals & Google Cloud Ready certifications
-• Won 2nd Place at Research-A-Thon for a quantum-enhanced transformer innovation
-• Completed M.S. in Computer Science with a 3.97 / 4.0 GPA
+    <p></p>
+<ul>
+<li>Delivered mission-critical backend systems and observability tools at Morgan Stanley</li>
+<li>Built cloud-native research platforms at UMKC, combining data, APIs, and scalable frontends</li>
+<li>Earned Google SRE Fundamentals & Google Cloud Ready certifications</li>
+<li>Won 2nd Place at Research-A-Thon for a quantum-enhanced transformer innovation</li>
+<li>Completed M.S. in Computer Science with a 3.97 / 4.0 GPA</li>
+</ul>
 <p></p>
 🚀 What Drives Me
 <p></p>
