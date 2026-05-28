@@ -1,42 +1,172 @@
 <h1 align="center">Hey 👋, I'm Karthik</h1>
-<h3 align="left">🌐 About Me
-I’m a tech builder and problem solver who loves turning ideas into reliable, scalable, and intelligent systems. From engineering backend architectures to automating data pipelines, strengthening reliability, and experimenting with AI-powered development tools — I thrive on creating solutions that make technology smarter, faster, and more human-centered.
-<p></p>
-⚙️ Core Expertise
-    <ul>
-      <li> Languages & Frameworks: Python · Go · Java · SQL · React / Next.js · Django / Flask · GraphQL / REST APIs</li>
-      <li>  Cloud & Infrastructure: AWS · GCP · Azure · Docker / Kubernetes · Terraform · CI/CD Automation</li>
-      <li> Data & Streaming Systems: Airflow · dbt · Snowflake · Kafka · Real-time analytics</li>
-      <li> Reliability & Observability: Prometheus · Grafana · AppDynamics · Logging & metrics pipelines</li>
-      <li> AI-Augmented Development: GitHub Copilot · Claude · Cursor, using AI to accelerate design, code, and delivery</li> 
-    </ul>  
-  <p></p>
-🏆 Highlights & Achievements
-    <p></p>
-<ul>
-<li>Delivered mission-critical backend systems and observability tools at Morgan Stanley</li>
-<li>Built cloud-native research platforms at UMKC, combining data, APIs, and scalable frontends</li>
-<li>Earned Google SRE Fundamentals & Google Cloud Ready certifications</li>
-<li>Won 2nd Place at Research-A-Thon for a quantum-enhanced transformer innovation</li>
-<li>Completed M.S. in Computer Science with a 3.97 / 4.0 GPA</li>
-</ul>
-<p></p>
-🚀 What Drives Me
-<p></p>
-I’m inspired by technology that empowers people - systems that scale effortlessly, data that tells a story, and automation that fuels creativity. I don’t limit myself to a title or stack - I bring energy, adaptability, and relentless curiosity to every project I join.
-<p></p>
-If you’re building something ambitious, from AI-powered platforms to reliable distributed systems — let’s connect and create what’s next.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-ctrl-a&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-ctrl-a" /> </p>
+<h3 align="center">
+Data Engineer • Cloud & Platform Builder • AI-Augmented Developer
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saikarthikpatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikarthikpatri" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/KarthiK-ctrl-A">
+    <img src="https://komarev.com/ghpvc/?username=KarthiK-ctrl-A&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://linkedin.com/in/saikarthikpatri">
+    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Karthik%20Patri-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saikarthik4me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik-ctrl-a&show_icons=true&locale=en&layout=compact" alt="karthik-ctrl-a" /></p>
+## 🌐 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthik-ctrl-a&show_icons=true&locale=en" alt="karthik-ctrl-a" /></p>
+I’m a tech builder who enjoys turning raw ideas into **reliable, scalable, and intelligent systems**.  
+My work sits at the intersection of **data engineering, cloud platforms, backend systems, observability, automation, and AI-assisted development**.
+
+I have built and supported enterprise-grade systems across **financial technology, research platforms, cloud-native data pipelines, and production reliability workflows**. I like systems that are fast, clean, measurable, and boring in production — because boring production is beautiful. 😄
+
+---
+
+## ⚙️ Core Expertise
+
+- **Data Engineering:** ETL/ELT pipelines, data modeling, data warehousing, batch/stream processing, data quality, orchestration
+- **Cloud & Platform Engineering:** AWS, Azure, GCP, Docker, Kubernetes, Terraform, CI/CD, serverless workflows
+- **Big Data & Analytics:** PySpark, Databricks, Snowflake, Kafka, Airflow, dbt, Power BI, Tableau
+- **Backend & APIs:** Python, Java, Go, Django, Flask, Spring Boot, REST APIs, GraphQL
+- **Reliability & Observability:** Prometheus, Grafana, Splunk, ELK, AppDynamics, logging, metrics, alerting, RCA
+- **AI-Augmented Development:** GitHub Copilot, Cursor, Claude, ChatGPT, MCP servers, AI-assisted coding and workflow automation
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,go,cpp,c,scala,bash,perl,sql,r,js,ts" />
+</p>
+
+### 🧱 Frameworks & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,spring,fastapi,nodejs,react,nextjs,graphql" />
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,jenkins" />
+</p>
+
+### 📊 Data Engineering & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,dynamodb,oracle" />
+  <img src="https://img.shields.io/badge/Sybase-0066A1?style=for-the-badge&logoColor=white" />
+</p>
+
+### 🔎 Observability & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AppDynamics-00A0DF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Control--M-1F4E79?style=for-the-badge&logoColor=white" />
+</p>
+
+### 🤖 AI & Developer Productivity
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP%20Servers-5A45FF?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Highlights
+
+- 🚀 Built scalable **ETL/ELT pipelines** using Python, PySpark, SQL, Snowflake, and AWS
+- 📊 Delivered dashboards and analytics workflows using **Power BI, Tableau, and cloud data platforms**
+- ⚙️ Automated production jobs and monitoring workflows using **Control-M, CI/CD, Prometheus, and Grafana**
+- ☁️ Designed cloud-native ingestion and processing solutions using **AWS S3, Lambda, ECS, EMR, and Airflow**
+- 🤖 Applied AI-assisted development tools like **Copilot, Cursor, Claude, ChatGPT, and MCP servers** to accelerate engineering workflows
+- 🧠 Built research and innovation projects around **AI/ML, time-series data, and financial forecasting**
+- 🎓 M.S. in Computer Science with **3.97 / 4.0 GPA**
+- 🥈 2nd Place — Research-A-Thon 2025
+
+---
+
+## 🚀 Featured Focus Areas
+
+```yaml
+current_focus:
+  - AI-ready data engineering
+  - Modern lakehouse architecture
+  - Snowflake and Databricks optimization
+  - Scalable PySpark pipelines
+  - Cloud-native workflow automation
+  - Reliable production systems
+  - AI-assisted developer productivity
+```
+
+---
+
+## 📌 Featured Projects
+
+### 🔮 Quantum-Enhanced Transformer for Financial Forecasting
+Hybrid AI research project combining transformer-based time-series modeling with quantum-inspired neural network concepts for financial forecasting.
+
+### ⚡ Redis Lite Server
+A Java-based Redis-style in-memory key-value store built to understand systems design, command parsing, concurrency, and backend internals.
+
+### 📡 Real-Time Data Pipeline
+Streaming and analytics architecture using Kafka, Python, cloud storage, and BI dashboards for near real-time operational insights.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthiK-ctrl-A&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarthiK-ctrl-A&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthiK-ctrl-A&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to meaningful conversations around **data engineering, cloud platforms, AI infrastructure, backend systems, production reliability, and developer productivity**.
+
+<p>
+  <a href="https://linkedin.com/in/saikarthikpatri">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saikarthik4me@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building systems that scale, data that speaks, and automation that quietly does the heavy lifting.</i>
+</p>
+
