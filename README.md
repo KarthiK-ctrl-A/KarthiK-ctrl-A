@@ -42,7 +42,7 @@ I have built and supported enterprise-grade systems across **financial technolog
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,cpp,c,scala,bash,perl,sql,r,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,cpp,c,scala,bash,perl,r,js,ts" />
 </p>
 
 ### 🧱 Frameworks & Backend
