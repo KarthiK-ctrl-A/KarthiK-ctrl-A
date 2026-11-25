@@ -47,7 +47,7 @@ I have built and supported enterprise-grade systems across **financial technolog
 
 ### 🧱 Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,spring,fastapi,nodejs,react,nextjs,graphql" />
+  <img src="https://skillicons.dev/icons?i=django,flask,spring,fastapi,nodejs,react,nextjs,nestjs,graphql" />
 </p>
 
 ### ☁️ Cloud & Infrastructure
